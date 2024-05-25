@@ -6,5 +6,5 @@
 
 #IMP
 - In the chatbot folder , there is also a folder which i have not uploaded beacuse the folder is not getting uploaded , so the folder name is ".rasa".
-- But when you will go through this steps which i have written in word file the the ".rasa" folder will generate automatically .
+- But when you will go through this steps which i have written in word file, the ".rasa" folder will generate automatically .
   
